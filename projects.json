@@ -1,0 +1,108 @@
+{
+  "projects": [
+    {
+      "title": "Lightify",
+      "description": "Spotify client that works like spotlight",
+      "image": "https://1nsomnes.github.io/gh-pages-database/lightify.png",
+      "link": "https://github.com/1nsomnes/Lightify",
+      "selected_tags": ["Backend", "Frontend", "Full Stack"],
+      "tags": [
+        "Flutter",
+        "Swift",
+        "Dart",
+        "Spotify API"
+      ]
+    },
+    {
+      "title": "Minimal Addiction Beater",
+      "description": "Basic mobile phone app that allows you to track how long you've beat your addiction.",
+      "image": "https://1nsomnes.github.io/gh-pages-database/min_add_beater.png",
+      "link": "https://github.com/1nsomnes/minimal_addiction_beater/",
+      "selected_tags": ["Backend", "Frontend", "Full Stack"],
+      "tags": [
+        "Flutter",
+        "Dart",
+        "ISAR"
+      ]
+    },
+    {
+      "title": "User Service Template",
+      "description": "Full user service using Flask and MongoDB with authorization ",
+      "image": "https://1nsomnes.github.io/gh-pages-database/user-service-template.png",
+      "link": "https://github.com/1nsomnes/User-Service-Template",
+      "selected_tags": ["Backend"],
+      "tags": [
+        "Python",
+        "Flask",
+        "Docker",
+        "Microservices"
+      ]
+    },
+    {
+      "title": "Sierpinskis Triangle",
+      "description": "Emergence of order out of chaos",
+      "image": "/projects/striangle.png",
+      "link": "https://github.com/1nsomnes/SierpinskisTriangle",
+      "selected_tags": ["Simulation", "Math"],
+      "tags": [
+        "Math",
+        "Simulation",
+        "Unity",
+        "C#"
+      ]
+    },
+    {
+      "title": "Flow Fields",
+      "description": "Beautiful flowing imagery using simple principles of differential equations.",
+      "image": "/projects/flow.png",
+      "link": "https://github.com/1nsomnes/FlowFields",
+      "selected_tags": ["Simulation", "Math"],
+      "tags": [
+        "Math",
+        "Simulation",
+        "Unity",
+        "C#"
+      ]
+    },
+    {
+      "title": "Three Body Simulation",
+      "description": "One of the most famous chaotic systems simulated and traced in several stable configurations.",
+      "image": "/projects/threebody.png",
+      "link": "https://github.com/InsomnesTutorials/ThreeBodyProblemSimulation",
+      "selected_tags": ["Simulation", "Math"],
+      "tags": [
+        "Math",
+        "Simulation",
+        "Unity",
+        "C#"
+      ]
+    },
+    {
+      "title": "YouTube Transcriber",
+      "description": "Based off YouTube link generate transcriptions using OpenAI's state of the art \"whisper\" model.",
+      "image": "/projects/transcriber.png",
+      "link": "https://github.com/1nsomnes/TranscriptionApp",
+      "selected_tags": ["Backend", "Frontend", "Full Stack"],
+      "tags": [
+        "Full Stack",
+        "Python",
+        "HTML/CSS",
+        "Flask",
+        "Vue",
+        "JavaScript"
+      ]
+    },
+    {
+      "title": "AirFoil Generator",
+      "description": "Generating and printing airfoils programatically based of NACA specs",
+      "image": "/projects/airfoil.png",
+      "link": "https://blog.cedricclaessens.com/the-art-of-designing-airfoils-with-the-naca-generator-and-autocad/",
+      "selected_tags": ["Engineering"],
+      "tags": [
+        "Engineering",
+        "CAD",
+        "Python"
+      ]
+    }
+  ]
+}
