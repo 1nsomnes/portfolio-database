@@ -1,0 +1,23 @@
+[
+  {
+    "label": "Portfolio",
+    "url": "/",
+    "description": "",
+    "featured": false
+  },
+  {
+    "label": "Blog",
+    "url": "/blog",
+    "description": ""
+  },
+  {
+    "label": "GitHub",
+    "url": "https://github.com/1nsomnes",
+    "description": ""
+  },
+  {
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/cedric-claessens-412414250/",
+    "description": ""
+  }
+]
