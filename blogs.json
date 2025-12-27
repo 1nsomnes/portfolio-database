@@ -1,13 +1,11 @@
 [
   {
-    "slug": "designing-airfoils-with-the-naca-generator-and-autocad",
-    "coverImg": "https://github.com/user-attachments/assets/c157e799-f2f2-4a7e-87f7-71064cb4cc34",
-    "title": "Designing Airfoils with the NACA Generator and AutoCAD",
-    "desc": "Learn how to set up a React project with Vite for lightning-fast development.",
-    "date": "2023-12-04",
-    "tags": [
-      "Engineering"
-    ],
+    "slug": "first-blog",
+    "coverImg": "https://github.com/user-attachments/assets/85368110-a739-465b-972e-773e8c8b8ab9",
+    "title": "First Blog",
+    "desc": "Mandatory first blog post (some blogs are older because I imported them when I switched my blog set up)",
+    "date": "2025-12-27",
+    "tags": null,
     "hidden": false
   },
   {
