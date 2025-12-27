@@ -1,3 +1,13 @@
+---
+slug: "designing-airfoils-with-the-naca-generator-and-autocad"
+coverImg: "https://github.com/user-attachments/assets/c157e799-f2f2-4a7e-87f7-71064cb4cc34"
+title: "Designing Airfoils with the NACA Generator and AutoCAD"
+desc: "Learn how to set up a React project with Vite for lightning-fast development."
+date: "2023-12-04"
+tags:
+  - Engineering
+hidden: false
+---
 # Designing Airfoils with the NACA Generator and AutoCAD
 
 Recently, I was challenged in one of my engineering classes to design an efficient blade for a wind turbine. Sadly, my lack of mathematical knowledge heavily hindered my chances of creating a quality blade within the time constraints. However, upon research I discovered the [NACA Airfoil Generator](http://airfoiltools.com/airfoil/naca4digit), a website which consolidates air foil data and publishes them under various IDs, provided data points which I could later transform into splines in [AutoCAD](https://www.autodesk.com/) and turn into a 3D model.
