@@ -5,7 +5,7 @@
       "description": "Spotify client that works like spotlight",
       "image": "https://1nsomnes.github.io/gh-pages-database/lightify.png",
       "link": "https://github.com/1nsomnes/Lightify",
-      "selected_tags": ["Backend", "Frontend", "Full Stack"],
+      "selected_tags": ["Backend", "Full Stack"],
       "tags": [
         "Flutter",
         "Swift",
@@ -18,7 +18,7 @@
       "description": "Basic mobile phone app that allows you to track how long you've beat your addiction.",
       "image": "https://1nsomnes.github.io/gh-pages-database/min_add_beater.png",
       "link": "https://github.com/1nsomnes/minimal_addiction_beater/",
-      "selected_tags": ["Backend", "Frontend", "Full Stack"],
+      "selected_tags": [],
       "tags": [
         "Flutter",
         "Dart",
@@ -43,7 +43,7 @@
       "description": "Emergence of order out of chaos",
       "image": "/projects/striangle.png",
       "link": "https://github.com/1nsomnes/SierpinskisTriangle",
-      "selected_tags": ["Simulation", "Math"],
+      "selected_tags": ["Math"],
       "tags": [
         "Math",
         "Simulation",
@@ -82,7 +82,7 @@
       "description": "Based off YouTube link generate transcriptions using OpenAI's state of the art \"whisper\" model.",
       "image": "/projects/transcriber.png",
       "link": "https://github.com/1nsomnes/TranscriptionApp",
-      "selected_tags": ["Backend", "Frontend", "Full Stack"],
+      "selected_tags": ["Backend", "Full Stack"],
       "tags": [
         "Full Stack",
         "Python",
@@ -96,8 +96,8 @@
       "title": "AirFoil Generator",
       "description": "Generating and printing airfoils programatically based of NACA specs",
       "image": "/projects/airfoil.png",
-      "link": "https://blog.cedricclaessens.com/the-art-of-designing-airfoils-with-the-naca-generator-and-autocad/",
-      "selected_tags": ["Engineering"],
+      "link": "http://localhost:5173/#/blog/designing-airfoils-with-the-naca-generator-and-autocad",
+      "selected_tags": [],
       "tags": [
         "Engineering",
         "CAD",
