@@ -5,7 +5,9 @@
     "title": "First Blog",
     "desc": "Mandatory first blog post (some blogs are older because I imported them when I switched my blog set up)",
     "date": "2025-12-27",
-    "tags": null,
+    "tags": [
+      "Random"
+    ],
     "hidden": false
   },
   {
