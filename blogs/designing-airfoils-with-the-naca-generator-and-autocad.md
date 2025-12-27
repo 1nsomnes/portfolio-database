@@ -55,13 +55,14 @@ f.close()
 ```
 
 ## Conclusion
-There are more features and thoughts that I don't go into depth about above. As you most likely know, airfoils rarely have the same design along the length of the wing. So, I wrote a couple methods to linearly interpolate the size as well as the rotation across the wing. Perhaps a future feature could also include customization of the interpolation allowing for finer grain control with user defined functions. This also comes with the question of how to create windows to modify interpolation. I also added a TKinter GUI which will help with the development of a robust UI to support this project. <br>
+There are more features and thoughts that I don't go into depth about above. As you most likely know, airfoils rarely have the same design along the length of the wing. So, I wrote a couple methods to linearly interpolate the size as well as the rotation across the wing. Perhaps a future feature could also include customization of the interpolation allowing for finer grain control with user defined functions. This also comes with the question of how to create windows to modify interpolation. I also added a TKinter GUI which will help with the development of a robust UI to support this project. 
+
 After these changes I went ahead and printed three blades of two sizes. Using these blades I did a trial with the smaller size and the larger size blades, yielding the following results:
 
 ![image](https://github.com/user-attachments/assets/8749f3e1-140f-44b5-9b8a-0a0414b7b3f7)
 
 The first trial resulted in 0.61 average volts and the second trial getting an average of 0.82 volts. All in all, this was an interesting dive into a world that I had formerly never known about in my life. And yes, I can confirm, understanding how air works and flows is very confusing!
-<br>
+
 Two blade designs:
 ![image](https://github.com/user-attachments/assets/90c9f1a9-28bb-4c1f-95bb-4cdccff5a488)
 
