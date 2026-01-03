@@ -15,9 +15,7 @@ Recently I opened my journal from two years ago and started paging through my me
 
 ## Fractals
 Fractals, by definition, are
-
 > infinitely complex patterns that are self-similar across different scales
-
 One popular example of a fractal is called Brownian Motion. 
 
 ## Connecting the two
