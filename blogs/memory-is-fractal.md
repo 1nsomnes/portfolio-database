@@ -1,6 +1,6 @@
 ---
 slug: "memory-is-fractal"
-coverImg: "https://github.com/user-attachments/assets/b6b716df-2aa3-45ee-94f1-ba68ba373130"
+coverImg: "https://github.com/user-attachments/assets/aa670765-1f67-4373-92cc-5967d0fac460"
 title: "Memory is Fractal"
 desc: "Exploring the connections between the mathematical concepts of fractals and memory"
 date: "2026-01-03"
