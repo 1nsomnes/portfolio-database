@@ -12,11 +12,11 @@ hidden: false
 
 **Completed:** 01/01/2026
 
-**Rating:** 3/5 
+**Rating:** 3.5/5 
 
 ## Before You Read (No Spoilers)
 
-Kazuo Ishiguro's _Never Let Me Go_ is a dystopinian sci-fi novel following Kathy B. who looks back on her days at the secluded Hailsham boarding school. The narrative captures a sense of quiet tragedy—the feeling of a childhood that was idyllic on the surface but underscored by a growing unease about the future. 
+Kazuo Ishiguro's _Never Let Me Go_ is a dystopinian sci-fi novel following Kathy H. who looks back on her days at the secluded Hailsham boarding school. The narrative captures a sense of quiet tragedy—the feeling of a childhood that was idyllic on the surface but underscored by a growing unease about the future. 
 
 Despite _Never Let Me Go's_ critical acclaim I don't think it is an absolute must read. That being said, you will not regret reading this book, especially considering it's on the shorter end. If you are interested in unique dystopian societies, this book is definitely worth reading! 
 
