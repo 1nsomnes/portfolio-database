@@ -1,5 +1,16 @@
 [
   {
+    "slug": "book-review-flowers-for-algernon",
+    "coverImg": "https://github.com/user-attachments/assets/0312bb3f-70a5-4fce-a4ca-7c3b87beac4f",
+    "title": "Flowers for Algernon - Book Review",
+    "desc": "My book review of Daniel Keyes's Never Let Me Go",
+    "date": "2026-01-07",
+    "tags": [
+      "Book Reviews"
+    ],
+    "hidden": false
+  },
+  {
     "slug": "memory-is-fractal",
     "coverImg": "https://github.com/user-attachments/assets/aa670765-1f67-4373-92cc-5967d0fac460",
     "title": "Memory is Fractal",
